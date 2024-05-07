@@ -54,3 +54,18 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
+button:hover {
+    background-color: #45a049;
+}
+
+button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
+
+.error {
+    color: #f00;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
