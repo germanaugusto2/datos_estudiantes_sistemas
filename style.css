@@ -1,0 +1,21 @@
+/* Estilos para el formulario */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, legend {
+    color: #e81010;
+}
+
+
+form {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #e32121;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
